@@ -1,0 +1,13 @@
+{% extends "layout.html" %}
+{% block title %} SMS Spam Detector {% endblock %}
+{% block content %}
+<!-- Result -->
+		<div class="results">
+			{% if prediction==1 %}
+				<h2>Prediction: <span class='danger'>This is a SPAM message.</span></h2>
+			{% elif prediction==0 %}
+				<h2>Prediction: <span class='safe'>Great! This is NOT a SPAM message.</span></h2>
+			{% endif %}
+		</div>
+
+{% endblock %}

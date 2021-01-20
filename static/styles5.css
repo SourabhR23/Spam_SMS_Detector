@@ -1,0 +1,115 @@
+html{
+	height: 100%;
+	margin: 0;
+}
+
+body{
+	font-family: Helvetica,sans-serif,;
+	background-color: #12232E;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+	display: flex;
+  	flex-direction: column;
+}
+
+span {
+	padding: 10px;
+}
+
+/* Website Title */
+.container{
+	padding: 30px;
+	position: relative;
+	background-color: #48647a;
+	background-size: 100% 100%;
+}
+
+.container-heading{
+    margin: 0;
+}
+
+.container span{
+    color: #ffa471;
+    font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+}
+
+.description p{
+    font-style: italic;
+    color: white;
+    font-size: 13px;
+    margin: 1px 0 0;
+}
+
+/* Text Area */
+.ml-container{
+    margin: 100px;
+	flex: 1 0 auto;
+}
+
+.message-box{
+    margin-bottom: 20px;
+}
+
+/* Predict Button */
+.my-cta-button{
+    background: #8e824d;
+    border: 2px solid #000000;
+    border-radius: 1000px;
+    box-shadow: 3px 3px #8c8c8c;
+    padding: 10px 36px;
+    color: #000000;
+    display: inline-block;
+    font: italic bold 20px/1 "Calibri", sans-serif;
+    text-align: center;
+}
+
+.my-cta-button:hover{
+    color: #1700ff;
+    border: 2px solid #e0dfea;
+}
+
+.my-cta-button:active{
+    box-shadow: 0 0;
+}
+
+
+/* Footer */
+.footer{
+    font-size: 14px;
+	padding: 2px;
+	flex-shrink: 0;
+	position: relative;
+	background-size: 500% 500%;
+	background-color: #7b7d7f;
+}
+
+.contact-icon{
+	color: black;
+	padding: 6px 3px;
+}
+
+.contact-icon:hover{
+	color: whote;
+}
+
+.footer-description{
+	margin:0px;
+	font-size: 12px;
+}
+
+/* Result */
+.results{
+    padding: 30px 0 0;
+	flex: 1 0 auto;
+}
+
+.danger{
+    color: #ff0000;
+}
+
+.safe{
+    color: green;
+}
