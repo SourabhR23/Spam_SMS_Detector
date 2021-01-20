@@ -8,4 +8,5 @@
 • To view the deployed project, visit the following link.<br>
 Link: ***https://ss-sms-spam-detector.herokuapp.com/***
 
+• If you like the Repository give it a ⭐ and also follow me on Github 😀
 
