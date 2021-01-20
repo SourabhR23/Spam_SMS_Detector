@@ -5,6 +5,7 @@
 
 • It is created with ***Flask*** and deployed on ***Heroku*** platform.
 
-• Deployed at: ***https://ss-sms-spam-detector.herokuapp.com/***
+• To view the deployed project, visit the following link.<br>
+Link: ***https://ss-sms-spam-detector.herokuapp.com/***
 
 
