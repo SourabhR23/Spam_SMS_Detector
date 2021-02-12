@@ -10,3 +10,4 @@ Link: ***https://ss-sms-spam-detector.herokuapp.com/***
 
 • If you like the Repository give it a ⭐ and also follow me on Github 😀
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
